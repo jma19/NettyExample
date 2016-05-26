@@ -1,0 +1,21 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+.project
+.settings/
+.classpath
+test-output
+.DS_Store
+*.log
+log.out
+out/
+# idea
+.idea
+*.eml
+*.iml
+backList
+soa-backup/
+/bin/
